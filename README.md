@@ -1,6 +1,6 @@
 # Data586_BestBuy
 
-# Project #1
+# Project 1
 
 
 # Project 2
