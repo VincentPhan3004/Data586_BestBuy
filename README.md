@@ -6,3 +6,5 @@ Project #1 is on the CIFAR-10 dataset which includes 60000 32x32 colour images i
 
 
 # Project 2
+
+The project is on the data of BestBuy containing information on what items users clicked on after making a search. The aim of the project is to use a feedforward network to predict which Xbox game a visitor will be most interested in based on their search query
